@@ -1,4 +1,4 @@
 c-tricks
 ========
 
-Study Notes for C Traps and Pitfalls
+study notes for c traps and pitfalls
